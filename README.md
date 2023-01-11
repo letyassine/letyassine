@@ -1,16 +1,24 @@
-### Hi there 👋
+<p>
+  <img width="40%" alt="hello! I'm Yassine Haimouch." src="https://user-images.githubusercontent.com/71409259/211790378-330651b7-b9c9-4644-8cec-9c0e0aaa38fe.svg" />
+</p>
 
-<!--
-**yassinehaimouch/yassinehaimouch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Developer/Designer/Creator(@gitcoder)`**
 
-Here are some ideas to get you started:
+<em>Design-focused engineer inspired by the art of building quality software.</em>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/71409259/211790133-32670530-d50b-4988-bb55-4232dbb90866.svg" />
+</div>
+<br />
+<div align="center">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=yassinehaimouch&show_icons=false&include_all_commits=true&theme=transparent&count_private=true" alt="Yassine's github stats" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinehaimouch&layout=compact&theme=transparent&hide=C,HTML,Scilab&langs_count=6&exclude_repo=Classificacao-de-Sentimentos-com-CNN,seguidor_de_linha,AnalizadorLexico,CadPlaneta,AnalisadorLexico,Sistema_de_Locacao_TesteUnitario_01,Dataset_Analysis" />
+</div>
+
+<div>
+<h2> You can find me here :point_down: </h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassinehaimouch/)](https://www.linkedin.com/in/yassinehaimouch)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gitcoder/)](https://www.instagram.com/gitcoder/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D74E43?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yassinehaimouch@proton.me)](mailto:yassinehaimouch@proton.me)
+</div>
