@@ -1,4 +1,4 @@
-##Yassine Haimouch
+<h2>Yassine Haimouch</h2>
 
 **`Developer/Designer/Creator(@gitcoder)`**
 
