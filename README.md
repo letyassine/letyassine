@@ -1,6 +1,4 @@
-<p>
-  <img width="40%" alt="hello! I'm Yassine Haimouch." src="https://user-images.githubusercontent.com/71409259/211790378-330651b7-b9c9-4644-8cec-9c0e0aaa38fe.svg" />
-</p>
+##Yassine Haimouch
 
 **`Developer/Designer/Creator(@gitcoder)`**
 
