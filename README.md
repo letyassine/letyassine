@@ -1,7 +1,7 @@
 # About Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40yassinehaimouch-239a3b.svg)](https://github.com/yassinehaimouch)
-[![Instagram](https://img.shields.io/badge/Instagram-%40yassinehaimouch-962fbf.svg)](https://instagram.com/gitcoder)
+[![Instagram](https://img.shields.io/badge/Instagram-%40gitcoder-962fbf.svg)](https://instagram.com/gitcoder)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/yassinehaimouch/)
 
 
