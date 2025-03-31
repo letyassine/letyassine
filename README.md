@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     <a href="https://gitcoder.me">me</a> .
-    <a href="https://gitcoders.dev/articles">blog</a> .
+    <a href="https://gitcoders.me/articles">blog</a> .
     <a href="https://linkedin.com/in/yassinehaimouch/">linkedin</a> .
     <a href="https://mastodon.social/@gitcoder">mastodon</a> .
     <a href="https://x.com/thegitcoder">tweets</a> .
