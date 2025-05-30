@@ -8,6 +8,6 @@
     <a href="https://discord.com/invite/5TnK7wuzw6">discord</a> .
     <a href="https://instagram.com/gitcoder">instagram</a> .
     <a href="https://twitch.tv/thegitcoder">twitch</a> .
-    <a href="https://youtube.com/@thegitcoder">youtube</a>
+    <a href="https://youtube.com/@thegitcoder?sub_confirmation=1">youtube</a>
   </samp>
 </p>
