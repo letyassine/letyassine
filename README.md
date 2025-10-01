@@ -1,4 +1,5 @@
-<p align="center">
+hey, i’m yassine — a frontend/design engineer who loves crafting thoughtful, user-centered, and visually appealing interfaces.
+<p>
   <samp>
     <a href="https://gitcoder.me">me</a> .
     <a href="https://gitcoder.me/articles">blog</a> .
@@ -11,3 +12,7 @@
     <a href="https://youtube.com/@thegitcoder?sub_confirmation=1">youtube</a>
   </samp>
 </p>
+
+## Projects:
+- [gitcoders](https://gitcoders.com) - Everything You Need to Level Up as a Web Developer
+- [html-semantic-recipes](https://marketplace.visualstudio.com/items?itemName=gitcoder.vsc-html-semantic-recipes) - vscode extension providing semantic HTML5 markup patterns for common UI components
