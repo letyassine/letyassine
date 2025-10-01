@@ -14,5 +14,5 @@ hey, i’m yassine — a frontend/design engineer who loves crafting thoughtful,
 </p>
 
 ## Projects:
-- [gitcoders](https://gitcoders.com) - Everything You Need to Level Up as a Web Developer
-- [html-semantic-recipes](https://marketplace.visualstudio.com/items?itemName=gitcoder.vsc-html-semantic-recipes) - vscode extension providing semantic HTML5 markup patterns for common UI components
+- [gitcoders](https://gitcoders.dev) - Everything You Need to Level Up as a Web Developer
+- [html-semantic-recipes](https://marketplace.visualstudio.com/items?itemName=gitcoder.vsc-html-semantic-recipes) - Vscode extension providing semantic HTML5 markup patterns for common UI components
